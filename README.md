@@ -9,7 +9,7 @@ Ideal for cybersecurity enthusiasts and anyone wanting to protect their confiden
  Beginner-friendly Python code
  Easy to integrate into other security projects
 
-📂 Project Structure
+# 📂 Project Structure
 arduino
 Copy
 Edit
