@@ -54,9 +54,8 @@ Add password protection for encryption/decryption
 Support for multiple file types and bulk operations
 
 # Author
-S. Ananya
-Aspiring Cybersecurity Engineer
-Karunya Institute of Technology and Sciences, Coimbatore
+S Ananya
+
 
 # Support
 If you like this project, please ⭐️ it on GitHub to show your support!
