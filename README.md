@@ -1,4 +1,8 @@
-🔒 Secure File Encryptor
+![Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)
+![Security](https://img.shields.io/badge/Security-Focused-important?style=for-the-badge&logo=datadog)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=checkmarx)
+
+# 🔒 Secure File Encryptor
 A simple yet effective Python tool to encrypt and decrypt sensitive files, ensuring better security and privacy.
 Ideal for cybersecurity enthusiasts and anyone wanting to protect their confidential data.
 
