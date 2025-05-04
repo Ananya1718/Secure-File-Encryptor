@@ -29,7 +29,7 @@ Clone this repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Secure-File-Encryptor.git
+git clone https://github.com/Ananya1718/Secure-File-Encryptor.git
 Navigate into the project
 
 bash
